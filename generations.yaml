@@ -1,0 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Chevrolet_Spin"
+
+generations:
+  - name: "First Generation"
+    start_year: 2012
+    end_year: null
+    description: "A compact MPV built in Brazil and Indonesia on the GM Gamma II platform, with 1.5 L and 1.8 L engines."

@@ -1,0 +1,8 @@
+command_id: 7E0.7E8.221940
+test_cases:
+- expected_values:
+    SPIN_ATF_T_VAR_1: 0
+  response: "221940\n7E8 04 62 19 40 28 "
+- expected_values:
+    SPIN_ATF_T_VAR_1: 0
+  response: '7E80462194028'
