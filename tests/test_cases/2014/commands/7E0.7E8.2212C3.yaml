@@ -1,0 +1,23 @@
+command_id: 7E0.7E8.2212C3
+test_cases:
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 3.51
+  response: 7E8056212C300EA
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 4.275
+  response: 7E8056212C3011D
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 4.395
+  response: 7E8056212C30125
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 4.5
+  response: 7E8056212C3012C
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 4.935
+  response: 7E8056212C30149
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 5.64
+  response: 7E8056212C30178
+- expected_values:
+    SPIN_INJECTOR_DUTY_CYCLE_BANK_1: 10.35
+  response: 7E8056212C302B2

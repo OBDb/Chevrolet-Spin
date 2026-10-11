@@ -1,0 +1,14 @@
+command_id: 7E0.7E8.2211A1
+test_cases:
+- expected_values:
+    SPIN_RUNTM: 31
+  response: 7E8056211A1001F
+- expected_values:
+    SPIN_RUNTM: 235
+  response: 7E8056211A100EB
+- expected_values:
+    SPIN_RUNTM: 265
+  response: 7E8056211A10109
+- expected_values:
+    SPIN_RUNTM: 1076
+  response: 7E8056211A10434
